@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Magic the Gathering Card Tooltips
+Plugin Name: Magic the Gathering Card Tooltips (TopDecked)
 Plugin URI: https://github.com/TopDecked/wordpress_mtg_tooltips
 Description: Easily transform Magic the Gathering card names into links that show the card
 image in a tooltip when hovering over them. You can also quickly create deck listings.
